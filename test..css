@@ -4,5 +4,7 @@ p{
 div{
     color: red;
     background-color: cadetblue;
+    text-align: center;
+    font-size: 50px;
 }
 
